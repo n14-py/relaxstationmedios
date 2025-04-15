@@ -1,4 +1,20 @@
 {
+    "videos": [
+        {"name": "Cafeteria Lluvia Relajante 1", "url": "https://drive.google.com/uc?export=download&id=1Ut1tuSeKM-f2bmdHyzUXsCJGlwqFY4K7"},
+        {"name": "Cabaña Fuego 1", "url": "https://drive.google.com/uc?export=download&id=1u6bTqyY3CkwrXqzgHHaEiZh91M-_PU9q"},
+        {"name": "Cabaña Rejalante LLuvia Suave 2", "url": "https://drive.google.com/uc?export=download&id=1OqXFw_hm8cjpYkibc7K0U5ZbdSssq82W"},
+        {"name": "Cabaña Fogata 3", "url": "https://drive.google.com/uc?export=download&id=1Wb2Xtu4pMk6h2oq41y-rD6XLLyEpamBi"},
+        {"name": "Cabaña LLuvia para dormir 4", "url": "https://drive.google.com/uc?export=download&id=17JNH7eDxq6foLWWDK-dWl8Qp-3jJbVXg"},
+        {"name": "Cabaña fuego relajante 5", "url": "https://drive.google.com/uc?export=download&id=1GgoeRh-eDzK5_eFEEsg1xyJRJPjyJS_r"},
+        {"name": "Cabaña Fuego 6", "url": "https://drive.google.com/uc?export=download&id=17f_PggBCnAVy0gO-scIUjYoxmjJnfU9u"},
+        {"name": "Cueva Fuego 1", "url": "https://drive.google.com/uc?export=download&id=1EeZ47wwpndlOK_dPVPx899t1DYGRcRAF"},
+        {"name": "Cueva Fuego 2", "url": "https://drive.google.com/uc?export=download&id=1EQhfExr0Lab-HHEuVcyleKWq_ieALFJ7"},
+        {"name": "Cueva Fuego 3", "url": "https://drive.google.com/uc?export=download&id=1kewT_hJe5Tujay1nWKWyubSn0zrtTX7S"},
+        {"name": "Departamento Lluvia Relajante 1", "url": "https://drive.google.com/uc?export=download&id=1B3dBypSMGTqO-YDcebHkufPSE1KV7byf"},
+        {"name": "Departamento lluvia Relajante para dormir 2", "url": "https://drive.google.com/uc?export=download&id=1Tt2F8hadZAQ0qPgA3TJYqp9byAw1Hsho"},
+        {"name": "Departamento Lluvia Relajante 3", "url": "https://drive.google.com/uc?export=download&id=1JVnWFcvBbdQAUGl0Q3gmkOR_e7jqcSBv"},
+        {"name": "Departamento Fuego 4", "url": "https://drive.google.com/uc?export=download&id=16_7oKs9mXXiuKb3xeFKLVKiluJti6mBw"}
+    ],
     "imagenes": [
         {"name": "lofi", "url": "https://drive.google.com/uc?export=download&id=11X9MuhxP4882APVkh-h97gNVBlxOZrWG"},
         {"name": "lofi ", "url": "https://drive.google.com/uc?export=download&id=1a80Iar93R3xLXv_mAkrATwp5XquadkpD"},
