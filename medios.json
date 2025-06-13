@@ -14,8 +14,13 @@
         {"name": "Departamento Lluvia 12", "url": "https://drive.google.com/uc?export=download&id=13XJqyFLH-LEvLVVXzaAbt5toB5mBSCDF"},
         {"name": "Departamento lluvia 13", "url": "https://drive.google.com/uc?export=download&id=1kv4Ot9kPe9WoN1jh1b1di2Yv2JEBUCU4"}
        
+   ],
+
+    "musica": [
+        {"name": "Jazz 1", "url": "https://drive.google.com/uc?export=download&id=1EQRoJyZBFCmykp0gFCtCsm5XXq5-GRmh"},
+        {"name": "Jazz 20", "url": "https://drive.google.com/uc?export=download&id=1ZAdbCZtC_mTHOmlpSuvuOswsB2fg-7MW"}
     ],
-    
+
     "sonidos_naturaleza": [
         {"name": "LLuvia Fuerte", "url": "https://drive.google.com/uc?export=download&id=1EN9jGQUoIwbi3gdcKJbNnu15ocAPMjGP"},
         {"name": "LLuvia loop", "url": "https://drive.google.com/uc?export=download&id=1RBgiJGVnOKVyKopY8FS9QgJzovtzT4UN"},
