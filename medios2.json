@@ -16,36 +16,17 @@
 
 
        
-    ],
+   ],
+
     "musica": [
         {"name": "Jazz 1", "url": "https://drive.google.com/uc?export=download&id=1EQRoJyZBFCmykp0gFCtCsm5XXq5-GRmh"},
-        {"name": "Jazz 2", "url": "https://drive.google.com/uc?export=download&id=1tG-jooBxU08-F7zFO6yFYm56Wh0BXbO2"},
-        {"name": "Jazz 3", "url": "https://drive.google.com/uc?export=download&id=1rlDyI02Mhmaef_6Fj5A3tINZniVCcH4k"},
-        {"name": "Jazz 4", "url": "https://drive.google.com/uc?export=download&id=1vKEJOINMEypgcXnrr6pxDWI3HMpbcriC"},
-        {"name": "Jazz 5", "url": "https://drive.google.com/uc?export=download&id=1aCaCuWu90mMyhfCvj74iI7uXrnak0qnS"},
-        {"name": "Jazz 6", "url": "https://drive.google.com/uc?export=download&id=18wmzXMs2NnnsNhxkOvo5sXUpLEE_Boi6"},
-        {"name": "Jazz 7", "url": "https://drive.google.com/uc?export=download&id=1emXIw1b56IO432o5iy1894MxWPW4ipGg"},
-        {"name": "Jazz 8", "url": "https://drive.google.com/uc?export=download&id=18iBLFNqCt2YETjVSBMXneE3rYv2SHUaN"},
-        {"name": "Jazz 9", "url": "https://drive.google.com/uc?export=download&id=1d124eySniuNbWzsOUG_RJol2e2MQFw-6"},
-        {"name": "Jazz 10", "url": "https://drive.google.com/uc?export=download&id=1YzWeeP8_F-PTwVdrBuf9DUeKKvvz-WOz"},
-        {"name": "Jazz 11", "url": "https://drive.google.com/uc?export=download&id=1tbI-ildxfep6dR8SMk1syozY7UD_pxQq"},
-        {"name": "Jazz 12", "url": "https://drive.google.com/uc?export=download&id=1zVHUEjaMojmZCqUMM7fOgiyUDA_EdbKh"},
-        {"name": "Jazz 13", "url": "https://drive.google.com/uc?export=download&id=1zOK0gWy4tDetqalLXGu7rmT7JV21IXbF"},
-        {"name": "Jazz 14", "url": "https://drive.google.com/uc?export=download&id=1xykBYnbhiv41uctm2WmIabvAwjiTKoOB"},
-        {"name": "Jazz 15", "url": "https://drive.google.com/uc?export=download&id=1sFCn80aTPUoGK8q1kSMwa8te8axI8ORf"},
-        {"name": "Jazz 16", "url": "https://drive.google.com/uc?export=download&id=1Hg1iuGvB1UjVyrfDNn1oHFOpaX3sNj59"},
-        {"name": "Jazz 17", "url": "https://drive.google.com/uc?export=download&id=1RQPLSdnrT_0D0pzsLpocA1GCSLkrdojH"},
-        {"name": "Jazz 18", "url": "https://drive.google.com/uc?export=download&id=1XZxqZ1colOUulpu0STSIOxWCXfEk2YFm"},
-        {"name": "Jazz 19", "url": "https://drive.google.com/uc?export=download&id=1kgtNNRAhGKKzYoti62pgiWqsZG6EbU8y"},
         {"name": "Jazz 20", "url": "https://drive.google.com/uc?export=download&id=1ZAdbCZtC_mTHOmlpSuvuOswsB2fg-7MW"}
     ],
+
     "sonidos_naturaleza": [
-        {"name": "Lluvia Bosque", "url": "https://drive.google.com/uc?export=download&id=1sIKtO1zhhIpfmsMmzT8wfAH9fl9PkwYO"},
-        {"name": "Fuego", "url": "https://drive.google.com/uc?export=download&id=1wjH1qqw7KY0EnCFOgt48xAjx-FLF19Tm"},
-        {"name": "LLuvia Fuerte", "url": "https://drive.google.com/uc?export=download&id=1E-UPBzCu95Wm5wwxraxoPaGibmW0TFuP"},
-        {"name": "LLuvia ", "url": "https://drive.google.com/uc?export=download&id=1zBwrzRramM9jYSf9SoT-SVTZoo6LYmbG"},
-        {"name": "LLuvia Relajante", "url": "https://drive.google.com/uc?export=download&id=1YTpxn_V7sDYJ7TCA1iNBKgM1GHG1nlNi"},
-        {"name": "LLuvia Suave", "url": "https://drive.google.com/uc?export=download&id=1diSfjl9q-963S0iBWYTUX7VQMgjK7_nt"},
-        {"name": "Viento", "url": "https://drive.google.com/uc?export=download&id=1N27FruK6JzU6RfW4s6FtSzEKcdWD9QH3"}
+        {"name": "LLuvia Fuerte", "url": "https://drive.google.com/uc?export=download&id=1EN9jGQUoIwbi3gdcKJbNnu15ocAPMjGP"},
+        {"name": "LLuvia loop", "url": "https://drive.google.com/uc?export=download&id=1RBgiJGVnOKVyKopY8FS9QgJzovtzT4UN"},
+        {"name": "LLuvia Relajante", "url": "https://drive.google.com/uc?export=download&id=1A86wzzzbMTTUTSHB0Zw1wqRK9Yx-kloy"}
+
     ]
 }
